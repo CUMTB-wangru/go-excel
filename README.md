@@ -8,7 +8,7 @@
 * 设置通用对齐方式
 
 ### 使用方式
-`go get gitlab.ftsview.com/fotoable-go/gexcel`
+`go get github.com/mao888/go-excel`
 ```go
 sheetName := "测试sheet"
 header := []string{"姓名", "性别", "年龄"}

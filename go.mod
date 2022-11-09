@@ -1,4 +1,4 @@
-module gitlab.ftsview.com/fotoable-go/gexcel
+module github.com/mao888/go-excel
 
 go 1.18
 
